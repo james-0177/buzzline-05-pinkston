@@ -219,6 +219,17 @@ def clear_kafka_topic(topic_name: str, group_id: Optional[str] = None):
     finally:
         admin_client.close()
 
+def is_topic_available(topic_name: str) -> bool:
+    """Check if a Kafka topic exists on the broker."""
+    kafka_broker = get_kafka_broker_address()
+    try:
+        admin_client = KafkaAdminClient(bootstrap_servers=kafka_broker)
+        exists = topic_name in admin_client.list_topics()
+        admin_client.close()
+        return exists
+    except Exception as e:
+        logger.error(f"Failed to check topic availability for '{topic_name}': {e}")
+        return False
 
 #####################################
 # Main Function for Testing

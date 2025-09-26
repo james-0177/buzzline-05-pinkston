@@ -1,0 +1,9 @@
+{"message": "I just loved recipe! It was boring.", "author": "Eve", "timestamp": "2025-09-25 20:55:41", "category": "food", "sentiment": 0.48, "keyword_mentioned": "recipe", "message_length": 35}
+{"message": "I just found a meme! It was boring.", "author": "Alice", "timestamp": "2025-09-25 20:55:46", "category": "humor", "sentiment": 0.31, "keyword_mentioned": "meme", "message_length": 35}
+{"message": "I just found game! It was boring.", "author": "Eve", "timestamp": "2025-09-25 20:55:51", "category": "gaming", "sentiment": 0.02, "keyword_mentioned": "game", "message_length": 33}
+{"message": "I just found Python! It was boring.", "author": "Eve", "timestamp": "2025-09-25 20:55:56", "category": "tech", "sentiment": 0.26, "keyword_mentioned": "Python", "message_length": 35}
+{"message": "I just found a movie! It was amazing.", "author": "Charlie", "timestamp": "2025-09-25 20:56:01", "category": "entertainment", "sentiment": 0.14, "keyword_mentioned": "movie", "message_length": 37}
+{"message": "I just shared an app! It was exciting.", "author": "Charlie", "timestamp": "2025-09-25 20:56:06", "category": "other", "sentiment": 0.8, "keyword_mentioned": "other", "message_length": 38}
+{"message": "I just shared travel! It was funny.", "author": "Bob", "timestamp": "2025-09-25 20:56:11", "category": "travel", "sentiment": 0.67, "keyword_mentioned": "travel", "message_length": 35}
+{"message": "I just saw Python! It was exciting.", "author": "Eve", "timestamp": "2025-09-25 20:56:16", "category": "tech", "sentiment": 0.29, "keyword_mentioned": "Python", "message_length": 35}
+{"message": "I just tried Python! It was exciting.", "author": "Alice", "timestamp": "2025-09-25 20:56:21", "category": "tech", "sentiment": 0.25, "keyword_mentioned": "Python", "message_length": 37}
