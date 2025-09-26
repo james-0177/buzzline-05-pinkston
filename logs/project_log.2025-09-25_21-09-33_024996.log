@@ -1,0 +1,255 @@
+2025-09-25 21:09:33 | INFO | {'message': 'I just tried game! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:09:33', 'category': 'gaming', 'sentiment': 0.65, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-25 21:09:38 | INFO | {'message': 'I just found travel! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:09:38', 'category': 'travel', 'sentiment': 0.66, 'keyword_mentioned': 'travel', 'message_length': 36}
+2025-09-25 21:09:43 | INFO | {'message': 'I just tried an app! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:09:43', 'category': 'other', 'sentiment': 0.29, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-25 21:09:48 | INFO | {'message': 'I just found a story! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:09:48', 'category': 'other', 'sentiment': 0.09, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:09:53 | INFO | {'message': 'I just tried recipe! It was boring.', 'author': 'Alice', 'timestamp': '2025-09-25 21:09:53', 'category': 'food', 'sentiment': 0.92, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-25 21:09:58 | INFO | {'message': 'I just loved JavaScript! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:09:58', 'category': 'tech', 'sentiment': 0.72, 'keyword_mentioned': 'JavaScript', 'message_length': 41}
+2025-09-25 21:10:03 | INFO | {'message': 'I just shared game! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:10:03', 'category': 'gaming', 'sentiment': 0.23, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:10:08 | INFO | {'message': 'I just found travel! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:10:08', 'category': 'travel', 'sentiment': 0.67, 'keyword_mentioned': 'travel', 'message_length': 36}
+2025-09-25 21:10:13 | INFO | {'message': 'I just tried game! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:10:13', 'category': 'gaming', 'sentiment': 0.98, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-25 21:10:18 | INFO | {'message': 'I just found recipe! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:10:18', 'category': 'food', 'sentiment': 0.82, 'keyword_mentioned': 'recipe', 'message_length': 37}
+2025-09-25 21:10:23 | INFO | {'message': 'I just found game! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:10:23', 'category': 'gaming', 'sentiment': 0.9, 'keyword_mentioned': 'game', 'message_length': 35}
+2025-09-25 21:10:28 | INFO | {'message': 'I just loved a story! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-25 21:10:28', 'category': 'other', 'sentiment': 0.27, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:10:33 | INFO | {'message': 'I just found Python! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-25 21:10:33', 'category': 'tech', 'sentiment': 0.04, 'keyword_mentioned': 'Python', 'message_length': 36}
+2025-09-25 21:10:38 | INFO | {'message': 'I just saw travel! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:10:38', 'category': 'travel', 'sentiment': 0.0, 'keyword_mentioned': 'travel', 'message_length': 34}
+2025-09-25 21:10:43 | INFO | {'message': 'I just saw travel! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:10:43', 'category': 'travel', 'sentiment': 0.75, 'keyword_mentioned': 'travel', 'message_length': 34}
+2025-09-25 21:10:48 | INFO | {'message': 'I just tried recipe! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:10:48', 'category': 'food', 'sentiment': 0.05, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-25 21:10:53 | INFO | {'message': 'I just loved a story! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-25 21:10:53', 'category': 'other', 'sentiment': 0.35, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-25 21:10:58 | INFO | {'message': 'I just tried JavaScript! It was boring.', 'author': 'Alice', 'timestamp': '2025-09-25 21:10:58', 'category': 'tech', 'sentiment': 0.4, 'keyword_mentioned': 'JavaScript', 'message_length': 39}
+2025-09-25 21:11:03 | INFO | {'message': 'I just tried recipe! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:11:03', 'category': 'food', 'sentiment': 0.6, 'keyword_mentioned': 'recipe', 'message_length': 37}
+2025-09-25 21:11:08 | INFO | {'message': 'I just found recipe! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-25 21:11:08', 'category': 'food', 'sentiment': 0.45, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-25 21:11:13 | INFO | {'message': 'I just tried a trick! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:11:13', 'category': 'other', 'sentiment': 0.64, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:11:18 | INFO | {'message': 'I just tried JavaScript! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-25 21:11:18', 'category': 'tech', 'sentiment': 0.64, 'keyword_mentioned': 'JavaScript', 'message_length': 41}
+2025-09-25 21:11:23 | INFO | {'message': 'I just tried Python! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:11:23', 'category': 'tech', 'sentiment': 0.54, 'keyword_mentioned': 'Python', 'message_length': 34}
+2025-09-25 21:11:28 | INFO | {'message': 'I just loved a trick! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:11:28', 'category': 'other', 'sentiment': 0.63, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:11:33 | INFO | {'message': 'I just tried Python! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:11:33', 'category': 'tech', 'sentiment': 0.5, 'keyword_mentioned': 'Python', 'message_length': 34}
+2025-09-25 21:11:38 | INFO | {'message': 'I just tried travel! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:11:38', 'category': 'travel', 'sentiment': 0.11, 'keyword_mentioned': 'travel', 'message_length': 37}
+2025-09-25 21:11:43 | INFO | {'message': 'I just tried an app! It was amazing.', 'author': 'Eve', 'timestamp': '2025-09-25 21:11:43', 'category': 'other', 'sentiment': 0.66, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:11:48 | INFO | {'message': 'I just shared Python! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-25 21:11:48', 'category': 'tech', 'sentiment': 0.9, 'keyword_mentioned': 'Python', 'message_length': 38}
+2025-09-25 21:11:53 | INFO | {'message': 'I just saw JavaScript! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:11:53', 'category': 'tech', 'sentiment': 0.88, 'keyword_mentioned': 'JavaScript', 'message_length': 36}
+2025-09-25 21:11:58 | INFO | {'message': 'I just loved a meme! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-25 21:11:58', 'category': 'humor', 'sentiment': 0.7, 'keyword_mentioned': 'meme', 'message_length': 34}
+2025-09-25 21:12:03 | INFO | {'message': 'I just shared game! It was boring.', 'author': 'Alice', 'timestamp': '2025-09-25 21:12:03', 'category': 'gaming', 'sentiment': 0.17, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:12:08 | INFO | {'message': 'I just loved a story! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-25 21:12:08', 'category': 'other', 'sentiment': 0.57, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:12:13 | INFO | {'message': 'I just loved a story! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:12:13', 'category': 'other', 'sentiment': 0.53, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:12:18 | INFO | {'message': 'I just shared travel! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:12:18', 'category': 'travel', 'sentiment': 0.91, 'keyword_mentioned': 'travel', 'message_length': 35}
+2025-09-25 21:12:23 | INFO | {'message': 'I just loved JavaScript! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-25 21:12:23', 'category': 'tech', 'sentiment': 0.75, 'keyword_mentioned': 'JavaScript', 'message_length': 39}
+2025-09-25 21:12:28 | INFO | {'message': 'I just shared a meme! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:12:28', 'category': 'humor', 'sentiment': 0.55, 'keyword_mentioned': 'meme', 'message_length': 35}
+2025-09-25 21:12:33 | INFO | {'message': 'I just loved game! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-25 21:12:33', 'category': 'gaming', 'sentiment': 0.76, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-25 21:12:38 | INFO | {'message': 'I just loved a movie! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:12:38', 'category': 'entertainment', 'sentiment': 0.8, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-25 21:12:43 | INFO | {'message': 'I just shared JavaScript! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-25 21:12:43', 'category': 'tech', 'sentiment': 0.74, 'keyword_mentioned': 'JavaScript', 'message_length': 41}
+2025-09-25 21:12:48 | INFO | {'message': 'I just tried a trick! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:12:48', 'category': 'other', 'sentiment': 0.59, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:12:53 | INFO | {'message': 'I just found travel! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-25 21:12:53', 'category': 'travel', 'sentiment': 0.48, 'keyword_mentioned': 'travel', 'message_length': 37}
+2025-09-25 21:12:58 | INFO | {'message': 'I just shared JavaScript! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-25 21:12:58', 'category': 'tech', 'sentiment': 0.12, 'keyword_mentioned': 'JavaScript', 'message_length': 39}
+2025-09-25 21:13:03 | INFO | {'message': 'I just shared recipe! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:13:03', 'category': 'food', 'sentiment': 0.3, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-25 21:13:08 | INFO | {'message': 'I just saw game! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-25 21:13:08', 'category': 'gaming', 'sentiment': 0.7, 'keyword_mentioned': 'game', 'message_length': 30}
+2025-09-25 21:13:13 | INFO | {'message': 'I just found Python! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:13:13', 'category': 'tech', 'sentiment': 0.05, 'keyword_mentioned': 'Python', 'message_length': 34}
+2025-09-25 21:13:18 | INFO | {'message': 'I just loved an app! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:13:18', 'category': 'other', 'sentiment': 0.27, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:13:23 | INFO | {'message': 'I just found a movie! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-25 21:13:23', 'category': 'entertainment', 'sentiment': 0.69, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-25 21:13:28 | INFO | {'message': 'I just shared game! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:13:28', 'category': 'gaming', 'sentiment': 0.11, 'keyword_mentioned': 'game', 'message_length': 33}
+2025-09-25 21:13:33 | INFO | {'message': 'I just shared a movie! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-25 21:13:33', 'category': 'entertainment', 'sentiment': 0.85, 'keyword_mentioned': 'movie', 'message_length': 37}
+2025-09-25 21:13:38 | INFO | {'message': 'I just tried travel! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:13:38', 'category': 'travel', 'sentiment': 0.38, 'keyword_mentioned': 'travel', 'message_length': 34}
+2025-09-25 21:13:43 | INFO | {'message': 'I just shared an app! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-25 21:13:43', 'category': 'other', 'sentiment': 0.08, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-25 21:13:48 | INFO | {'message': 'I just loved a story! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:13:48', 'category': 'other', 'sentiment': 0.62, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-25 21:13:53 | INFO | {'message': 'I just shared JavaScript! It was boring.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:13:53', 'category': 'tech', 'sentiment': 0.07, 'keyword_mentioned': 'JavaScript', 'message_length': 40}
+2025-09-25 21:13:58 | INFO | {'message': 'I just saw a movie! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-25 21:13:58', 'category': 'entertainment', 'sentiment': 0.52, 'keyword_mentioned': 'movie', 'message_length': 36}
+2025-09-25 21:14:03 | INFO | {'message': 'I just loved travel! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:14:03', 'category': 'travel', 'sentiment': 0.65, 'keyword_mentioned': 'travel', 'message_length': 35}
+2025-09-25 21:14:08 | INFO | {'message': 'I just found travel! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-25 21:14:08', 'category': 'travel', 'sentiment': 0.77, 'keyword_mentioned': 'travel', 'message_length': 37}
+2025-09-25 21:14:13 | INFO | {'message': 'I just found a movie! It was amazing.', 'author': 'Eve', 'timestamp': '2025-09-25 21:14:13', 'category': 'entertainment', 'sentiment': 0.95, 'keyword_mentioned': 'movie', 'message_length': 37}
+2025-09-25 21:14:18 | INFO | {'message': 'I just tried a trick! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:14:18', 'category': 'other', 'sentiment': 0.33, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:14:23 | INFO | {'message': 'I just saw a meme! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-25 21:14:23', 'category': 'humor', 'sentiment': 0.71, 'keyword_mentioned': 'meme', 'message_length': 34}
+2025-09-25 21:14:28 | INFO | {'message': 'I just saw travel! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:14:28', 'category': 'travel', 'sentiment': 0.66, 'keyword_mentioned': 'travel', 'message_length': 34}
+2025-09-25 21:14:33 | INFO | {'message': 'I just loved game! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:14:33', 'category': 'gaming', 'sentiment': 0.16, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-25 21:14:38 | INFO | {'message': 'I just shared a trick! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:14:38', 'category': 'other', 'sentiment': 0.21, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-25 21:14:43 | INFO | {'message': 'I just found a movie! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:14:43', 'category': 'entertainment', 'sentiment': 0.99, 'keyword_mentioned': 'movie', 'message_length': 36}
+2025-09-25 21:14:48 | INFO | {'message': 'I just loved game! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:14:48', 'category': 'gaming', 'sentiment': 0.07, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:14:53 | INFO | {'message': 'I just shared travel! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-25 21:14:53', 'category': 'travel', 'sentiment': 0.11, 'keyword_mentioned': 'travel', 'message_length': 38}
+2025-09-25 21:14:58 | INFO | {'message': 'I just found a trick! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-25 21:14:58', 'category': 'other', 'sentiment': 0.27, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:15:03 | INFO | {'message': 'I just shared recipe! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:15:03', 'category': 'food', 'sentiment': 0.7, 'keyword_mentioned': 'recipe', 'message_length': 38}
+2025-09-25 21:15:08 | INFO | {'message': 'I just tried a meme! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:15:08', 'category': 'humor', 'sentiment': 0.83, 'keyword_mentioned': 'meme', 'message_length': 34}
+2025-09-25 21:15:13 | INFO | {'message': 'I just loved an app! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-25 21:15:13', 'category': 'other', 'sentiment': 0.96, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-25 21:15:18 | INFO | {'message': 'I just found a story! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-25 21:15:18', 'category': 'other', 'sentiment': 0.38, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:15:23 | INFO | {'message': 'I just shared a movie! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:15:23', 'category': 'entertainment', 'sentiment': 0.45, 'keyword_mentioned': 'movie', 'message_length': 36}
+2025-09-25 21:15:28 | INFO | {'message': 'I just saw a meme! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-25 21:15:28', 'category': 'humor', 'sentiment': 0.09, 'keyword_mentioned': 'meme', 'message_length': 32}
+2025-09-25 21:15:33 | INFO | {'message': 'I just found JavaScript! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:15:33', 'category': 'tech', 'sentiment': 0.91, 'keyword_mentioned': 'JavaScript', 'message_length': 40}
+2025-09-25 21:15:38 | INFO | {'message': 'I just loved a movie! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:15:38', 'category': 'entertainment', 'sentiment': 0.7, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-25 21:15:43 | INFO | {'message': 'I just saw recipe! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:15:43', 'category': 'food', 'sentiment': 0.58, 'keyword_mentioned': 'recipe', 'message_length': 33}
+2025-09-25 21:15:48 | INFO | {'message': 'I just saw Python! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:15:48', 'category': 'tech', 'sentiment': 0.07, 'keyword_mentioned': 'Python', 'message_length': 32}
+2025-09-25 21:15:53 | INFO | {'message': 'I just found a story! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:15:53', 'category': 'other', 'sentiment': 0.31, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:15:58 | INFO | {'message': 'I just loved a movie! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-25 21:15:58', 'category': 'entertainment', 'sentiment': 0.25, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-25 21:16:03 | INFO | {'message': 'I just shared game! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:16:03', 'category': 'gaming', 'sentiment': 0.16, 'keyword_mentioned': 'game', 'message_length': 35}
+2025-09-25 21:16:08 | INFO | {'message': 'I just shared game! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-25 21:16:08', 'category': 'gaming', 'sentiment': 0.19, 'keyword_mentioned': 'game', 'message_length': 33}
+2025-09-25 21:16:13 | INFO | {'message': 'I just saw Python! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-25 21:16:13', 'category': 'tech', 'sentiment': 0.28, 'keyword_mentioned': 'Python', 'message_length': 35}
+2025-09-25 21:16:18 | INFO | {'message': 'I just saw travel! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:16:18', 'category': 'travel', 'sentiment': 0.59, 'keyword_mentioned': 'travel', 'message_length': 32}
+2025-09-25 21:16:23 | INFO | {'message': 'I just tried a movie! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-25 21:16:23', 'category': 'entertainment', 'sentiment': 0.34, 'keyword_mentioned': 'movie', 'message_length': 38}
+2025-09-25 21:16:28 | INFO | {'message': 'I just found JavaScript! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:16:28', 'category': 'tech', 'sentiment': 0.54, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-25 21:16:33 | INFO | {'message': 'I just saw a movie! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-25 21:16:33', 'category': 'entertainment', 'sentiment': 0.13, 'keyword_mentioned': 'movie', 'message_length': 36}
+2025-09-25 21:16:38 | INFO | {'message': 'I just tried a movie! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:16:38', 'category': 'entertainment', 'sentiment': 0.07, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-25 21:16:43 | INFO | {'message': 'I just loved a meme! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-25 21:16:43', 'category': 'humor', 'sentiment': 0.82, 'keyword_mentioned': 'meme', 'message_length': 36}
+2025-09-25 21:16:48 | INFO | {'message': 'I just found a trick! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:16:48', 'category': 'other', 'sentiment': 0.44, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:16:53 | INFO | {'message': 'I just found a movie! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:16:53', 'category': 'entertainment', 'sentiment': 0.27, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-25 21:16:58 | INFO | {'message': 'I just saw JavaScript! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:16:58', 'category': 'tech', 'sentiment': 0.88, 'keyword_mentioned': 'JavaScript', 'message_length': 36}
+2025-09-25 21:17:03 | INFO | {'message': 'I just shared an app! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:17:03', 'category': 'other', 'sentiment': 0.24, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-25 21:17:08 | INFO | {'message': 'I just loved a trick! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:17:08', 'category': 'other', 'sentiment': 0.08, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:17:13 | INFO | {'message': 'I just shared an app! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-25 21:17:13', 'category': 'other', 'sentiment': 0.59, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-25 21:17:18 | INFO | {'message': 'I just loved game! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-25 21:17:18', 'category': 'gaming', 'sentiment': 0.8, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:17:23 | INFO | {'message': 'I just shared JavaScript! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:17:23', 'category': 'tech', 'sentiment': 0.99, 'keyword_mentioned': 'JavaScript', 'message_length': 40}
+2025-09-25 21:17:28 | INFO | {'message': 'I just found JavaScript! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-25 21:17:28', 'category': 'tech', 'sentiment': 0.53, 'keyword_mentioned': 'JavaScript', 'message_length': 40}
+2025-09-25 21:17:33 | INFO | {'message': 'I just saw a movie! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:17:33', 'category': 'entertainment', 'sentiment': 0.5, 'keyword_mentioned': 'movie', 'message_length': 36}
+2025-09-25 21:17:38 | INFO | {'message': 'I just found a trick! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:17:38', 'category': 'other', 'sentiment': 0.68, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:17:44 | INFO | {'message': 'I just shared a story! It was boring.', 'author': 'Alice', 'timestamp': '2025-09-25 21:17:44', 'category': 'other', 'sentiment': 0.53, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-25 21:17:49 | INFO | {'message': 'I just tried travel! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-25 21:17:49', 'category': 'travel', 'sentiment': 0.66, 'keyword_mentioned': 'travel', 'message_length': 35}
+2025-09-25 21:17:54 | INFO | {'message': 'I just shared a trick! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:17:54', 'category': 'other', 'sentiment': 0.1, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:17:59 | INFO | {'message': 'I just found a story! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:17:59', 'category': 'other', 'sentiment': 0.87, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-25 21:18:04 | INFO | {'message': 'I just found game! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-25 21:18:04', 'category': 'gaming', 'sentiment': 0.63, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:18:09 | INFO | {'message': 'I just shared a movie! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-25 21:18:09', 'category': 'entertainment', 'sentiment': 0.65, 'keyword_mentioned': 'movie', 'message_length': 36}
+2025-09-25 21:18:14 | INFO | {'message': 'I just shared an app! It was boring.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:18:14', 'category': 'other', 'sentiment': 0.14, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:18:19 | INFO | {'message': 'I just found an app! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-25 21:18:19', 'category': 'other', 'sentiment': 0.88, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-25 21:18:24 | INFO | {'message': 'I just saw a movie! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:18:24', 'category': 'entertainment', 'sentiment': 0.63, 'keyword_mentioned': 'movie', 'message_length': 33}
+2025-09-25 21:18:29 | INFO | {'message': 'I just found a meme! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-25 21:18:29', 'category': 'humor', 'sentiment': 0.58, 'keyword_mentioned': 'meme', 'message_length': 35}
+2025-09-25 21:18:34 | INFO | {'message': 'I just loved travel! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-25 21:18:34', 'category': 'travel', 'sentiment': 0.77, 'keyword_mentioned': 'travel', 'message_length': 37}
+2025-09-25 21:18:39 | INFO | {'message': 'I just shared a movie! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-25 21:18:39', 'category': 'entertainment', 'sentiment': 0.16, 'keyword_mentioned': 'movie', 'message_length': 39}
+2025-09-25 21:18:44 | INFO | {'message': 'I just saw a story! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:18:44', 'category': 'other', 'sentiment': 0.04, 'keyword_mentioned': 'other', 'message_length': 33}
+2025-09-25 21:18:49 | INFO | {'message': 'I just shared recipe! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:18:49', 'category': 'food', 'sentiment': 0.38, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-25 21:18:54 | INFO | {'message': 'I just saw a trick! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-25 21:18:54', 'category': 'other', 'sentiment': 0.2, 'keyword_mentioned': 'other', 'message_length': 33}
+2025-09-25 21:18:59 | INFO | {'message': 'I just tried JavaScript! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-25 21:18:59', 'category': 'tech', 'sentiment': 0.15, 'keyword_mentioned': 'JavaScript', 'message_length': 41}
+2025-09-25 21:19:04 | INFO | {'message': 'I just tried recipe! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-25 21:19:04', 'category': 'food', 'sentiment': 0.62, 'keyword_mentioned': 'recipe', 'message_length': 37}
+2025-09-25 21:19:09 | INFO | {'message': 'I just found a movie! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:19:09', 'category': 'entertainment', 'sentiment': 0.19, 'keyword_mentioned': 'movie', 'message_length': 36}
+2025-09-25 21:19:14 | INFO | {'message': 'I just found JavaScript! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:19:14', 'category': 'tech', 'sentiment': 0.11, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-25 21:19:19 | INFO | {'message': 'I just loved game! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:19:19', 'category': 'gaming', 'sentiment': 0.77, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-25 21:19:24 | INFO | {'message': 'I just shared recipe! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-25 21:19:24', 'category': 'food', 'sentiment': 0.38, 'keyword_mentioned': 'recipe', 'message_length': 38}
+2025-09-25 21:19:29 | INFO | {'message': 'I just found an app! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:19:29', 'category': 'other', 'sentiment': 0.62, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-25 21:19:34 | INFO | {'message': 'I just tried a story! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-25 21:19:34', 'category': 'other', 'sentiment': 0.78, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:19:39 | INFO | {'message': 'I just found recipe! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-25 21:19:39', 'category': 'food', 'sentiment': 0.79, 'keyword_mentioned': 'recipe', 'message_length': 34}
+2025-09-25 21:19:44 | INFO | {'message': 'I just loved game! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:19:44', 'category': 'gaming', 'sentiment': 0.52, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:19:49 | INFO | {'message': 'I just tried Python! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:19:49', 'category': 'tech', 'sentiment': 0.48, 'keyword_mentioned': 'Python', 'message_length': 34}
+2025-09-25 21:19:54 | INFO | {'message': 'I just loved a meme! It was amazing.', 'author': 'Eve', 'timestamp': '2025-09-25 21:19:54', 'category': 'humor', 'sentiment': 0.42, 'keyword_mentioned': 'meme', 'message_length': 36}
+2025-09-25 21:19:59 | INFO | {'message': 'I just loved a meme! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-25 21:19:59', 'category': 'humor', 'sentiment': 0.67, 'keyword_mentioned': 'meme', 'message_length': 37}
+2025-09-25 21:20:04 | INFO | {'message': 'I just found an app! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:20:04', 'category': 'other', 'sentiment': 0.86, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:20:09 | INFO | {'message': 'I just found a story! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-25 21:20:09', 'category': 'other', 'sentiment': 0.67, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:20:14 | INFO | {'message': 'I just loved JavaScript! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:20:14', 'category': 'tech', 'sentiment': 0.78, 'keyword_mentioned': 'JavaScript', 'message_length': 39}
+2025-09-25 21:20:14 | WARNING | Producer interrupted by user.
+2025-09-25 21:20:14 | INFO | Producer shutting down.
+2025-09-25 21:20:17 | INFO | Logging to file: logs/project_log.log
+2025-09-25 21:20:17 | INFO | Log sanitization enabled, personal info removed
+2025-09-25 21:20:17 | INFO | Starting Producer to run continuously.
+2025-09-25 21:20:17 | INFO | Use Ctrl+C to stop.
+2025-09-25 21:20:17 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-25 21:20:17 | INFO | BUZZ_TOPIC: buzzline
+2025-09-25 21:20:17 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-25 21:20:17 | INFO | BASE_DATA_DIR: PROJECT_ROOT/data
+2025-09-25 21:20:17 | INFO | LIVE_DATA_PATH: PROJECT_ROOT/data/project_live.json
+2025-09-25 21:20:17 | INFO | BASE_DATA_DIR: PROJECT_ROOT/data
+2025-09-25 21:20:17 | INFO | SQLITE_PATH: PROJECT_ROOT/data/buzz.sqlite
+2025-09-25 21:20:17 | INFO | Deleted existing live data file.
+2025-09-25 21:20:17 | INFO | Kafka broker address: localhost:9092
+2025-09-25 21:20:17 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'hMNex-8bR3emkYlz6xmmZg', 'controller_id': 1}
+2025-09-25 21:20:19 | WARNING | WARNING: Kafka setup failed: NoBrokersAvailable
+2025-09-25 21:20:19 | INFO | {'message': 'I just saw a movie! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-25 21:20:19', 'category': 'entertainment', 'sentiment': 0.49, 'keyword_mentioned': 'movie', 'message_length': 33}
+2025-09-25 21:20:24 | INFO | {'message': 'I just loved travel! It was boring.', 'author': 'Alice', 'timestamp': '2025-09-25 21:20:24', 'category': 'travel', 'sentiment': 0.94, 'keyword_mentioned': 'travel', 'message_length': 35}
+2025-09-25 21:20:29 | INFO | {'message': 'I just saw recipe! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:20:29', 'category': 'food', 'sentiment': 0.56, 'keyword_mentioned': 'recipe', 'message_length': 34}
+2025-09-25 21:20:34 | INFO | {'message': 'I just saw a story! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:20:34', 'category': 'other', 'sentiment': 0.04, 'keyword_mentioned': 'other', 'message_length': 33}
+2025-09-25 21:20:39 | INFO | {'message': 'I just tried JavaScript! It was boring.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:20:39', 'category': 'tech', 'sentiment': 0.32, 'keyword_mentioned': 'JavaScript', 'message_length': 39}
+2025-09-25 21:20:44 | INFO | {'message': 'I just found a movie! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:20:44', 'category': 'entertainment', 'sentiment': 0.8, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-25 21:20:50 | INFO | {'message': 'I just shared a story! It was boring.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:20:50', 'category': 'other', 'sentiment': 0.99, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-25 21:20:55 | INFO | {'message': 'I just shared game! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-25 21:20:55', 'category': 'gaming', 'sentiment': 0.33, 'keyword_mentioned': 'game', 'message_length': 36}
+2025-09-25 21:21:00 | INFO | {'message': 'I just loved recipe! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:21:00', 'category': 'food', 'sentiment': 0.61, 'keyword_mentioned': 'recipe', 'message_length': 34}
+2025-09-25 21:21:05 | INFO | {'message': 'I just loved an app! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:21:05', 'category': 'other', 'sentiment': 0.28, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-25 21:21:10 | INFO | {'message': 'I just saw JavaScript! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:21:10', 'category': 'tech', 'sentiment': 0.67, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-25 21:21:15 | INFO | {'message': 'I just tried an app! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-25 21:21:15', 'category': 'other', 'sentiment': 0.13, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:21:16 | INFO | Logging to file: logs/project_log.log
+2025-09-25 21:21:16 | INFO | Log sanitization enabled, personal info removed
+2025-09-25 21:21:16 | INFO | Starting db testing.
+2025-09-25 21:21:16 | INFO | BASE_DATA_DIR: PROJECT_ROOT/data
+2025-09-25 21:21:16 | INFO | Calling SQLite init_db() with {db_path=}.
+2025-09-25 21:21:16 | INFO | SUCCESS: Got a cursor to execute SQL.
+2025-09-25 21:21:16 | INFO | SUCCESS: Database initialized and table ready at PROJECT_ROOT/data/test_buzz.sqlite.
+2025-09-25 21:21:16 | INFO | Initialized database file at PROJECT_ROOT/data/test_buzz.sqlite.
+2025-09-25 21:21:16 | INFO | Calling SQLite insert_message() with:
+2025-09-25 21:21:16 | INFO | message={'message': 'I just shared a meme! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-01-29 14:35:20', 'category': 'humor', 'sentiment': 0.87, 'keyword_mentioned': 'meme', 'message_length': 42}
+2025-09-25 21:21:16 | INFO | db_path=WindowsPath('C:/Projects/buzzline-05-pinkston/data/test_buzz.sqlite')
+2025-09-25 21:21:16 | INFO | Inserted one message into the database.
+2025-09-25 21:21:16 | INFO | Deleted message with id 1 from the database.
+2025-09-25 21:21:16 | INFO | Finished testing.
+2025-09-25 21:21:20 | INFO | {'message': 'I just shared a movie! It was boring.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:21:20', 'category': 'entertainment', 'sentiment': 0.92, 'keyword_mentioned': 'movie', 'message_length': 37}
+2025-09-25 21:21:25 | INFO | {'message': 'I just shared a meme! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:21:25', 'category': 'humor', 'sentiment': 0.77, 'keyword_mentioned': 'meme', 'message_length': 35}
+2025-09-25 21:21:30 | INFO | {'message': 'I just saw game! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:21:30', 'category': 'gaming', 'sentiment': 0.39, 'keyword_mentioned': 'game', 'message_length': 30}
+2025-09-25 21:21:32 | INFO | Logging to file: logs/project_log.log
+2025-09-25 21:21:32 | INFO | Log sanitization enabled, personal info removed
+2025-09-25 21:21:32 | INFO | Starting Consumer to run continuously.
+2025-09-25 21:21:32 | INFO | Things can fail or get interrupted, so use a try block.
+2025-09-25 21:21:32 | INFO | Moved .env variables into a utils config module.
+2025-09-25 21:21:32 | INFO | STEP 1. Read environment variables using new config functions.
+2025-09-25 21:21:32 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-25 21:21:32 | INFO | BASE_DATA_DIR: PROJECT_ROOT/data
+2025-09-25 21:21:32 | INFO | LIVE_DATA_PATH: PROJECT_ROOT/data/project_live.json
+2025-09-25 21:21:32 | INFO | BASE_DATA_DIR: PROJECT_ROOT/data
+2025-09-25 21:21:32 | INFO | SQLITE_PATH: PROJECT_ROOT/data/buzz.sqlite
+2025-09-25 21:21:32 | INFO | SUCCESS: Read environment variables.
+2025-09-25 21:21:32 | INFO | STEP 2. Delete any prior database file for a fresh start.
+2025-09-25 21:21:32 | ERROR | ERROR: Failed to delete DB file: [WinError 32] The process cannot access the file because it is being used by another process: 'C://Projects//buzzline-05-pinkston//data//buzz.sqlite'
+2025-09-25 21:21:35 | INFO | {'message': 'I just saw game! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:21:35', 'category': 'gaming', 'sentiment': 0.09, 'keyword_mentioned': 'game', 'message_length': 30}
+2025-09-25 21:21:40 | INFO | {'message': 'I just loved JavaScript! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:21:40', 'category': 'tech', 'sentiment': 0.63, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-25 21:21:42 | INFO | Logging to file: logs/project_log.log
+2025-09-25 21:21:42 | INFO | Log sanitization enabled, personal info removed
+2025-09-25 21:21:42 | INFO | Starting Consumer to run continuously.
+2025-09-25 21:21:42 | INFO | Things can fail or get interrupted, so use a try block.
+2025-09-25 21:21:42 | INFO | Moved .env variables into a utils config module.
+2025-09-25 21:21:42 | INFO | STEP 1. Read environment variables using new config functions.
+2025-09-25 21:21:42 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-25 21:21:42 | INFO | BASE_DATA_DIR: PROJECT_ROOT/data
+2025-09-25 21:21:42 | INFO | LIVE_DATA_PATH: PROJECT_ROOT/data/project_live.json
+2025-09-25 21:21:42 | INFO | BASE_DATA_DIR: PROJECT_ROOT/data
+2025-09-25 21:21:42 | INFO | SQLITE_PATH: PROJECT_ROOT/data/buzz.sqlite
+2025-09-25 21:21:42 | INFO | SUCCESS: Read environment variables.
+2025-09-25 21:21:42 | INFO | STEP 2. Delete any prior database file for a fresh start.
+2025-09-25 21:21:42 | ERROR | ERROR: Failed to delete DB file: [WinError 32] The process cannot access the file because it is being used by another process: 'C://Projects//buzzline-05-pinkston//data//buzz.sqlite'
+2025-09-25 21:21:45 | INFO | {'message': 'I just loved an app! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:21:45', 'category': 'other', 'sentiment': 0.45, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:21:50 | INFO | {'message': 'I just found game! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:21:50', 'category': 'gaming', 'sentiment': 0.76, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-25 21:21:55 | INFO | {'message': 'I just loved an app! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:21:55', 'category': 'other', 'sentiment': 0.78, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:22:00 | INFO | {'message': 'I just tried JavaScript! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:22:00', 'category': 'tech', 'sentiment': 0.97, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-25 21:22:05 | INFO | {'message': 'I just found JavaScript! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-25 21:22:05', 'category': 'tech', 'sentiment': 0.46, 'keyword_mentioned': 'JavaScript', 'message_length': 40}
+2025-09-25 21:22:10 | INFO | {'message': 'I just loved Python! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:22:10', 'category': 'tech', 'sentiment': 0.21, 'keyword_mentioned': 'Python', 'message_length': 34}
+2025-09-25 21:22:15 | INFO | {'message': 'I just saw JavaScript! It was boring.', 'author': 'Alice', 'timestamp': '2025-09-25 21:22:15', 'category': 'tech', 'sentiment': 0.83, 'keyword_mentioned': 'JavaScript', 'message_length': 37}
+2025-09-25 21:22:20 | INFO | {'message': 'I just tried an app! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:22:20', 'category': 'other', 'sentiment': 0.8, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-25 21:22:25 | INFO | {'message': 'I just shared game! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:22:25', 'category': 'gaming', 'sentiment': 0.49, 'keyword_mentioned': 'game', 'message_length': 33}
+2025-09-25 21:22:30 | INFO | {'message': 'I just shared game! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:22:30', 'category': 'gaming', 'sentiment': 0.09, 'keyword_mentioned': 'game', 'message_length': 33}
+2025-09-25 21:22:35 | INFO | {'message': 'I just found an app! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:22:35', 'category': 'other', 'sentiment': 0.03, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-25 21:22:40 | INFO | {'message': 'I just tried JavaScript! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:22:40', 'category': 'tech', 'sentiment': 0.51, 'keyword_mentioned': 'JavaScript', 'message_length': 39}
+2025-09-25 21:22:45 | INFO | {'message': 'I just tried recipe! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:22:45', 'category': 'food', 'sentiment': 0.59, 'keyword_mentioned': 'recipe', 'message_length': 37}
+2025-09-25 21:22:50 | INFO | {'message': 'I just shared recipe! It was funny.', 'author': 'Bob', 'timestamp': '2025-09-25 21:22:50', 'category': 'food', 'sentiment': 0.35, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-25 21:22:55 | INFO | {'message': 'I just loved a story! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-25 21:22:55', 'category': 'other', 'sentiment': 0.21, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-25 21:23:00 | INFO | {'message': 'I just shared game! It was boring.', 'author': 'Alice', 'timestamp': '2025-09-25 21:23:00', 'category': 'gaming', 'sentiment': 0.31, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:23:05 | INFO | {'message': 'I just tried a story! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-25 21:23:05', 'category': 'other', 'sentiment': 0.75, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:23:10 | INFO | {'message': 'I just saw a meme! It was amazing.', 'author': 'Eve', 'timestamp': '2025-09-25 21:23:10', 'category': 'humor', 'sentiment': 0.69, 'keyword_mentioned': 'meme', 'message_length': 34}
+2025-09-25 21:23:15 | INFO | {'message': 'I just saw travel! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:23:15', 'category': 'travel', 'sentiment': 0.96, 'keyword_mentioned': 'travel', 'message_length': 32}
+2025-09-25 21:23:20 | INFO | {'message': 'I just saw recipe! It was funny.', 'author': 'Bob', 'timestamp': '2025-09-25 21:23:20', 'category': 'food', 'sentiment': 0.1, 'keyword_mentioned': 'recipe', 'message_length': 32}
+2025-09-25 21:23:25 | INFO | {'message': 'I just saw Python! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-25 21:23:25', 'category': 'tech', 'sentiment': 0.75, 'keyword_mentioned': 'Python', 'message_length': 35}
+2025-09-25 21:23:30 | INFO | {'message': 'I just found a story! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:23:30', 'category': 'other', 'sentiment': 0.68, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-25 21:23:35 | INFO | {'message': 'I just found an app! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-25 21:23:35', 'category': 'other', 'sentiment': 0.82, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-25 21:23:40 | INFO | {'message': 'I just found game! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:23:40', 'category': 'gaming', 'sentiment': 0.91, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:23:45 | INFO | {'message': 'I just tried travel! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-25 21:23:45', 'category': 'travel', 'sentiment': 0.94, 'keyword_mentioned': 'travel', 'message_length': 35}
+2025-09-25 21:23:50 | INFO | {'message': 'I just loved an app! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-25 21:23:50', 'category': 'other', 'sentiment': 0.34, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-25 21:23:55 | INFO | {'message': 'I just tried game! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-25 21:23:55', 'category': 'gaming', 'sentiment': 0.55, 'keyword_mentioned': 'game', 'message_length': 35}
+2025-09-25 21:24:00 | INFO | {'message': 'I just saw a meme! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:24:00', 'category': 'humor', 'sentiment': 0.87, 'keyword_mentioned': 'meme', 'message_length': 33}
+2025-09-25 21:24:05 | INFO | {'message': 'I just tried a meme! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:24:05', 'category': 'humor', 'sentiment': 0.41, 'keyword_mentioned': 'meme', 'message_length': 34}
+2025-09-25 21:24:10 | INFO | {'message': 'I just saw a meme! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:24:10', 'category': 'humor', 'sentiment': 0.33, 'keyword_mentioned': 'meme', 'message_length': 32}
+2025-09-25 21:24:15 | INFO | {'message': 'I just shared game! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:24:15', 'category': 'gaming', 'sentiment': 0.76, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:24:20 | INFO | {'message': 'I just found travel! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-25 21:24:20', 'category': 'travel', 'sentiment': 0.76, 'keyword_mentioned': 'travel', 'message_length': 34}
+2025-09-25 21:24:26 | INFO | {'message': 'I just loved JavaScript! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:24:26', 'category': 'tech', 'sentiment': 0.81, 'keyword_mentioned': 'JavaScript', 'message_length': 39}
+2025-09-25 21:24:31 | INFO | {'message': 'I just shared a movie! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:24:31', 'category': 'entertainment', 'sentiment': 0.96, 'keyword_mentioned': 'movie', 'message_length': 37}
+2025-09-25 21:24:36 | INFO | {'message': 'I just saw a meme! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:24:36', 'category': 'humor', 'sentiment': 0.35, 'keyword_mentioned': 'meme', 'message_length': 32}
+2025-09-25 21:24:41 | INFO | {'message': 'I just found a movie! It was amazing.', 'author': 'Eve', 'timestamp': '2025-09-25 21:24:41', 'category': 'entertainment', 'sentiment': 0.52, 'keyword_mentioned': 'movie', 'message_length': 37}
+2025-09-25 21:24:46 | INFO | {'message': 'I just found recipe! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-25 21:24:46', 'category': 'food', 'sentiment': 0.67, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-25 21:24:51 | INFO | {'message': 'I just shared travel! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:24:51', 'category': 'travel', 'sentiment': 0.94, 'keyword_mentioned': 'travel', 'message_length': 35}
+2025-09-25 21:24:56 | INFO | {'message': 'I just loved a meme! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:24:56', 'category': 'humor', 'sentiment': 0.55, 'keyword_mentioned': 'meme', 'message_length': 34}
+2025-09-25 21:25:01 | INFO | {'message': 'I just found travel! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-25 21:25:01', 'category': 'travel', 'sentiment': 0.53, 'keyword_mentioned': 'travel', 'message_length': 34}
+2025-09-25 21:25:06 | INFO | {'message': 'I just loved recipe! It was amazing.', 'author': 'Eve', 'timestamp': '2025-09-25 21:25:06', 'category': 'food', 'sentiment': 0.62, 'keyword_mentioned': 'recipe', 'message_length': 36}
+2025-09-25 21:25:11 | INFO | {'message': 'I just shared game! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-25 21:25:11', 'category': 'gaming', 'sentiment': 0.93, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:25:16 | INFO | {'message': 'I just found JavaScript! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:25:16', 'category': 'tech', 'sentiment': 0.11, 'keyword_mentioned': 'JavaScript', 'message_length': 40}
+2025-09-25 21:25:21 | INFO | {'message': 'I just found recipe! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:25:21', 'category': 'food', 'sentiment': 0.44, 'keyword_mentioned': 'recipe', 'message_length': 34}
+2025-09-25 21:25:26 | INFO | {'message': 'I just found game! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:25:26', 'category': 'gaming', 'sentiment': 0.07, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-25 21:25:31 | INFO | {'message': 'I just loved a movie! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-25 21:25:31', 'category': 'entertainment', 'sentiment': 0.32, 'keyword_mentioned': 'movie', 'message_length': 38}
+2025-09-25 21:25:36 | INFO | {'message': 'I just found a meme! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-25 21:25:36', 'category': 'humor', 'sentiment': 0.44, 'keyword_mentioned': 'meme', 'message_length': 34}
+2025-09-25 21:25:41 | INFO | {'message': 'I just shared a trick! It was boring.', 'author': 'Charlie', 'timestamp': '2025-09-25 21:25:41', 'category': 'other', 'sentiment': 0.12, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-25 21:25:46 | INFO | {'message': 'I just saw a story! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:25:46', 'category': 'other', 'sentiment': 0.54, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-25 21:25:51 | INFO | {'message': 'I just shared a trick! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-25 21:25:51', 'category': 'other', 'sentiment': 0.06, 'keyword_mentioned': 'other', 'message_length': 38}
