@@ -81,7 +81,8 @@ def sanitize_message(record: Mapping[str, Any]) -> str:
 def format_sanitized(record: Mapping[str, Any]) -> str:
     """Custom formatter that sanitizes messages and returns a plain string."""
     message = sanitize_message(record)
-    time_str = record["time"].strftime("%Y-%m-%d %H:%M:%S")
+    time = record.get("time")
+    time_str = time.strftime("%Y-%m-%d %H:%M:%S") if hasattr(time, "strftime") else str(time)
     level_name = record["level"].name
     return f"{time_str} | {level_name} | {message}\n"
 

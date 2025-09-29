@@ -184,13 +184,17 @@ def consume_messages_from_file(live_data_path, sql_path, interval_secs, last_pos
             with open(live_data_path, "r") as file:
                 # Move to the last read position
                 file.seek(last_position)
-                for line in file:
-                    # If we strip whitespace and there is content
-                    if not line.strip():
+                
+                while True:
+                    line = file.readline()
+                    if not line:
+                        break
+                    line = line.strip()
+                    if not line:
                         continue
 
-                    # Use json.loads to parse the stripped line
-                    raw = json.loads(line.strip())
+                
+                    raw = json.loads(line)
 
                     # Call our process_message function
                     processed = process_message(raw)
@@ -201,7 +205,7 @@ def consume_messages_from_file(live_data_path, sql_path, interval_secs, last_pos
                     # Update the last position that's been read to the current file position
                     last_position = file.tell()
 
-            # sleep before checking for more lines
+            # sleep before checking for more linesS
             time.sleep(interval_secs) 
 
         except FileNotFoundError:
@@ -237,16 +241,7 @@ def main():
         logger.error(f"ERROR: Failed to read environment variables: {e}")
         sys.exit(1)
 
-    logger.info("STEP 2. Delete any prior database file for a fresh start.")
-    if sqlite_path.exists():
-        try:
-            sqlite_path.unlink()
-            logger.info("SUCCESS: Deleted database file.")
-        except Exception as e:
-            logger.error(f"ERROR: Failed to delete DB file: {e}")
-            sys.exit(2)
-
-    logger.info("STEP 3. Initialize a new database with an empty table.")
+    logger.info("STEP 2. Initialize a database and create new insights table.")
     try:
         init_db(sqlite_path)
         init_insights_db(sqlite_path)
@@ -254,7 +249,7 @@ def main():
         logger.error(f"ERROR: Failed to create db table: {e}")
         sys.exit(3)
 
-    logger.info("STEP 4. Begin consuming and storing messages.")
+    logger.info("STEP 3. Begin consuming and storing messages.")
     try:
         consume_messages_from_file(live_data_path, sqlite_path, interval_secs, 0)
     except KeyboardInterrupt:

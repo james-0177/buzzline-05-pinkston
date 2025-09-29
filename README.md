@@ -208,7 +208,7 @@ OR
 python3 -m consumers.duckdb_consumer_case.py
 ```
 
-## Task 5. Create custom consumers file draft
+## Task 5. Create custom consumers file from file_consumer_case.py
 
 Create custom consumers file, consumer_pinkston.py
 
@@ -218,10 +218,17 @@ git commit -m "created custom consumers file, consumer_pinkston.py"
 git push -u origin main
 ```
 
-## Task 6. 
+## Task 6. Test new consumers file
 
+After several runthroughs, updates, and modifications I finally got the new consumers file to run.
 
-This allows you to experiment with richer analytics while keeping the original stream intact.
+## Task 7. Make final updates to consumer_pinkston.py file and final updates to README
+
+```
+git add.
+git commit -m "make final update to consumer_pinkston.py and README"
+git push -u origin main
+```
 
 ## Review the Project Code
 
